@@ -1,0 +1,8 @@
+.searcbar form {
+    display: flex;
+    align-items: center;
+}
+
+.searcbar input {
+    margin-left: 10px;
+}
